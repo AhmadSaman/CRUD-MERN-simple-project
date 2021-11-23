@@ -1,3 +1,3 @@
 module.exports={
-    url:"mongodb://localhost:27017/developers_database"
+    url:"mongodb+srv://test_user:crrkWY1v8a4D17qN@taskcluster.efnyo.mongodb.net/ahmadCrud?retryWrites=true&w=majority"
 }
